@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FCC-CALCULATOR/static/css/main.6a904087.chunk.css",
+    "main.js": "/FCC-CALCULATOR/static/js/main.d8bf25b5.chunk.js",
+    "main.js.map": "/FCC-CALCULATOR/static/js/main.d8bf25b5.chunk.js.map",
+    "runtime~main.js": "/FCC-CALCULATOR/static/js/runtime~main.2a68a8a8.js",
+    "runtime~main.js.map": "/FCC-CALCULATOR/static/js/runtime~main.2a68a8a8.js.map",
+    "static/js/2.397ef126.chunk.js": "/FCC-CALCULATOR/static/js/2.397ef126.chunk.js",
+    "static/js/2.397ef126.chunk.js.map": "/FCC-CALCULATOR/static/js/2.397ef126.chunk.js.map",
+    "index.html": "/FCC-CALCULATOR/index.html",
+    "precache-manifest.fa48a5477e2c383bc9ed3c76097a8566.js": "/FCC-CALCULATOR/precache-manifest.fa48a5477e2c383bc9ed3c76097a8566.js",
+    "service-worker.js": "/FCC-CALCULATOR/service-worker.js",
+    "static/css/main.6a904087.chunk.css.map": "/FCC-CALCULATOR/static/css/main.6a904087.chunk.css.map"
+  }
+}
